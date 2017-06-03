@@ -1,6 +1,6 @@
 {
     "name": "Bcm2835",
-    "keywords": "onewire, 1-wire, bus, sensor, temperature, ibutton",
+    "keywords": "gpio, spi, i2c",
     "description": "Provides access to GPIO and other IO functions on the Broadcom BCM 2835 chip",
     "authors":
     {
